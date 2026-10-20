@@ -10,8 +10,6 @@ O **LightIA** está sendo desenvolvido para ajudar empresas e empreendedores a c
 - **Foco:** transformar tarefas complexas em uma experiência mais guiada e acessível.
 - **Status:** em desenvolvimento. Funcionalidades e experiência seguem em evolução.
 
-Esta é uma apresentação do projeto, não um anúncio de produto concluído. O código-fonte não está publicado neste perfil.
-
 ## 🛠️ Projetos públicos em evolução
 
 ### [Audio Neural Podcast](https://github.com/natanrocha2672-droid/audioneuraupodcast)
@@ -39,4 +37,4 @@ Servidor MCP em Python para pesquisar fotos e vídeos do Pexels, explorando a in
 
 I'm **Natan Reis Rocha**, building web applications, AI integrations and automation projects. My main project is **LightIA**, an AI-assisted online-store builder currently under development.
 
-My public projects include **Audio Neural Podcast**, which explores turning text and PDFs into podcast scripts and neural-voice audio using the OpenAI API, and **Pexels MCP**, a Python MCP server for searching photos and videos. These projects are works in progress, not claims of a finished commercial product.
+My public projects include **Audio Neural Podcast**, which explores turning text and PDFs into podcast scripts and neural-voice audio using the OpenAI API, and **Pexels MCP**, a Python MCP server for searching photos and videos. These projects are works in progress.
