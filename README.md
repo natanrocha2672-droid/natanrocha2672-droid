@@ -38,3 +38,8 @@ Servidor MCP em Python para pesquisar fotos e vídeos do Pexels, explorando a in
 I'm **Natan Reis Rocha**, building web applications, AI integrations and automation projects. My main project is **LightIA**, an AI-assisted online-store builder currently under development.
 
 My public projects include **Audio Neural Podcast**, which explores turning text and PDFs into podcast scripts and neural-voice audio using the OpenAI API, and **Pexels MCP**, a Python MCP server for searching photos and videos. These projects are works in progress.
+
+## Links
+
+- [LightIA](https://lightia.com.br)
+- [LinkedIn](https://www.linkedin.com/in/natan-reis-rocha-15374a445/)
